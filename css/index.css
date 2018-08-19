@@ -1,0 +1,188 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	font-family: 'Times New Roman', sans-serif;
+}
+.wrapper {
+	padding: 0;
+	margin: 0 auto;
+	max-width: 842px;	
+}
+
+.logo {
+	margin-top: 19px;
+	margin-bottom: 20px;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	font-size: 16px;
+	font-family: 'Tahoma', sans-serif;
+	font-weight: bold;
+}
+ 
+.toolbar {
+	margin-top: 34px;
+	margin-bottom: 31px;
+}
+.toolbar li {
+	display: inline;
+}
+
+.company {
+	text-decoration: none;
+	margin-right: 29px;
+	color: #000000;
+}
+.services {
+	text-decoration: none;
+	margin-right: 30px;
+	color: #000000;
+} 
+.reviews {
+	text-decoration: none;
+	margin-right: 31px;
+	color: #000000;
+}
+.contacts {
+	text-decoration: none;
+	color: #000000;
+}
+
+.background {
+	background-color: #f0f0f0;
+	margin-bottom: 26px;
+	padding: 29px 36px 20px 19px;
+}
+.jumbotron {
+	display: flex;
+}
+
+.gadget {
+	margin-right: 22px;
+}
+
+h1, h2, p {
+	margin: 0px;
+}
+
+h1 {
+	margin: 3px 55px 21px 0;
+	font-size: 21px;
+	font-family: 'Tahoma', sans-serif;
+	font-weight: bold;	
+}
+
+h2 {
+	font-size: 18px;
+	font-family: 'Tahoma', sans-serif;
+	font-weight: bold;
+}
+
+.content {
+	margin-bottom: 15px;
+	color: #8d8d8d;
+}
+
+.btn {
+	background-image: linear-gradient(to bottom, #da4137, #b4362d);
+	color: #fefefe;
+	width: 115px;
+	padding-top: 6px;
+	padding-bottom: 7px;
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	font-size: 13px;
+	font-family: 'Tahoma', sans-serif;
+	}
+
+	.btn:hover {
+		background: #e10a0a;
+	}
+
+.effeciency {
+	margin-bottom: 9px;
+}
+
+.strategy {
+	margin: 0 7px 15px 0;
+	color: #8d8d8d;
+}
+
+.effects {
+	display: flex;
+	margin-bottom: 49px;
+}
+
+.unit {
+	 display: flex;
+	 align-items: center;
+}
+
+.people {
+	margin-right: 11px;
+
+}
+
+.basket {
+	margin-right: 16px;
+}
+
+.calculator, .portfolio {
+	margin-right: 17px;
+}
+
+
+.attendance {
+	margin-top: 6px;
+	margin-right: 65px;
+	font-style: italic;
+}
+
+.sale {
+	margin-top: 10px;
+	margin-right: 76px;
+	font-style: italic;
+}
+
+.profit {
+	margin-top: 9px;
+	margin-right: 77px;
+	font-style: italic;
+}
+
+.buisness {
+	margin-top: 6px;
+	margin-right: 32px;
+	font-style: italic;
+}
+
+.info {
+	margin-bottom: 8px;
+}
+
+.marketing {
+	margin-bottom: 9px;
+}
+
+.articles {
+	margin-bottom: 9px;
+}
+
+.info-text {
+	margin-bottom: 20px;
+	color: #8c8c8c;
+}
+
+.marketing-text {
+	margin-bottom: 21px;
+	color: #8c8c8c;
+}
+
+.articles-text {
+	margin-bottom: 145px;
+	color: #8c8c8c;
+} 
